@@ -238,4 +238,15 @@ fact-name{
         margin-top: 20px;
         margin-left: 20px;
     }
+    .footer-back{
+        background-color: rgba(255, 244, 231, 1);
+        text-align: center;
+        justify-content: center;
+        width: 450px;
+        height: 100px;
+        padding-top:20px;
+        margin-top: 50px;}
+    #ftext{
+        width: 600px;
+    }
 }
